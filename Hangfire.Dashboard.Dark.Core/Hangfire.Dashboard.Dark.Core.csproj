@@ -5,12 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Resources\style.css" />
     <None Remove="Resources\style.min.css" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="Resources\style.css" />
     <EmbeddedResource Include="Resources\style.min.css" />
   </ItemGroup>
 
