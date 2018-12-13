@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+	<Title>Hangfire.Dashboard.Dark.Core</Title>
+    <Summary>Hangfire's Oracle storage</Summary>
+    <Description>Dark themed dashboard for Hangfire</Description>
+    <PackageId>Hangfire.Dashboard.Dark.Core</PackageId>
+    <Product>Hangfire.Dashboard.Dark.Core</Product>
+	<PackageProjectUrl>https://github.com/akoylu/Hangfire.Dashboard.Dark.Core</PackageProjectUrl>
+	<Copyright>Copyright 2018</Copyright>
+    <PackageTags>Hangfire theme dark</PackageTags>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyName>Hangfire.Dashboard.Dark.Core</AssemblyName>
+    <RootNamespace>Hangfire.Dashboard.Dark.Core</RootNamespace>
+    <PackageReleaseNotes></PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

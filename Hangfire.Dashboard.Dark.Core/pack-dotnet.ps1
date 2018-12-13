@@ -1,0 +1,1 @@
+dotnet pack Hangfire.Dashboard.Dark.Core.csproj --configuration Release /p:PackageVersion=$Args
