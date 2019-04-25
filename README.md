@@ -25,7 +25,7 @@ GlobalConfiguration.Configuration
 
 ## Screenshots
 
-![dashboard](Screenshots/Screenshot1.png)
-![dashboard](Screenshots/Screenshot2.png)
-![dashboard](Screenshots/Screenshot3.png)
-![dashboard](Screenshots/Screenshot4.png)
+![dashboard](https://raw.githubusercontent.com/akoylu/Hangfire.Dashboard.Dark.Core/master/Screenshots/Screenshot1.png)
+![dashboard](https://raw.githubusercontent.com/akoylu/Hangfire.Dashboard.Dark.Core/master/Screenshots/Screenshot2.png)
+![dashboard](https://raw.githubusercontent.com/akoylu/Hangfire.Dashboard.Dark.Core/master/Screenshots/Screenshot3.png)
+![dashboard](https://raw.githubusercontent.com/akoylu/Hangfire.Dashboard.Dark.Core/master/Screenshots/Screenshot4.png)
